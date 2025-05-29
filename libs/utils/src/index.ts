@@ -13,3 +13,5 @@ export * from "./namespaces/string";
 export * from "./namespaces/style";
 export * from "./namespaces/template";
 export * from "./namespaces/types";
+export * from "./templateMeta";
+
